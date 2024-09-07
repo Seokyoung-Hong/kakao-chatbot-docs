@@ -1,0 +1,3 @@
+[submodule "kakaochatbot"]
+	path = kakaochatbot
+	url = https://github.com/hanlee55/kakao-chatbot.git
